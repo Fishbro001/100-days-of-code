@@ -10,3 +10,15 @@ pretty boring, cause I tried building a website on my own and it was filled with
 **Links to learning material**
 1. [Javescript](https://www.codecademy.com/courses/introduction-to-javascript)
 2. [Basic html](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+
+### Day 2: April 3nd, Wednesday
+
+**Today's Progress**: I've finished a course on basic CSS on freecodecamp.
+
+**Thoughts** Not that much interesting, but I learned a few things on how to style the website, most importantly I think I learned was the differences between
+ids and classes and attributes, how to use each of them to style. And learned how to declare variables in css
+
+**Links to learning material**
+1. [CSS Basic](https://learn.freecodecamp.org/responsive-web-design/basic-css)
+
+
