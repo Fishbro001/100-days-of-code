@@ -21,4 +21,13 @@ ids and classes and attributes, how to use each of them to style. And learned ho
 **Links to learning material**
 1. [CSS Basic](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
+### Day 3: April 4nd, Thursday
+
+**Today's Progress**: I've almost finished a course on "Applied Visual Design" (12 challenges short) about CSS on freecodecamp.
+
+**Thoughts** I got sick today, so I spent most of the day sleeping. Was hard to put myself to it, was a good excuse, but decided not to do it.
+
+**Links to learning material**
+1. [CSS Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
+
 
