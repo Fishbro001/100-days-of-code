@@ -31,3 +31,12 @@ ids and classes and attributes, how to use each of them to style. And learned ho
 1. [CSS Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
 
+### Day 4: April 5nd, Friday
+
+**Today's Progress**: I've finished a course on "Applied Visual Design" about CSS on freecodecamp.
+
+**Thoughts**: Can't spend more time today, and tomorrow I am going to countryside, where I won't be able to update, because I don't have internet there.
+But I will update for two days whenever I am able.
+
+**Links to learning material**
+1. [CSS Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
