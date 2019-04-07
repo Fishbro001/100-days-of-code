@@ -40,3 +40,9 @@ But I will update for two days whenever I am able.
 
 **Links to learning material**
 1. [CSS Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
+
+### Day 5-6: April 5nd-6th, Saturday-Sunday
+
+**Progress**: Worked on a prototype website, one day, and the other day tried to get ::before or ::after working on css and couldn't.
+
+**Thoughts**: Frustrated 
