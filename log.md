@@ -46,3 +46,12 @@ But I will update for two days whenever I am able.
 **Progress**: Worked on a prototype website, one day, and the other day tried to get ::before or ::after working on css and couldn't.
 
 **Thoughts**: Frustrated 
+
+### Day 7: April 7th, Monday
+
+**Progress**: Worked on a prototype website. Was having difficulty not realising I needed to add display:inline-block property
+
+**Thoughts**: I feel like I made good amount of progress and managed to digest all the learning material.
+
+**Links to work material**
+1. Can find the prototype website on works\day7

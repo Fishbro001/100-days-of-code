@@ -1,0 +1,128 @@
+body{
+  background:linear-gradient(#d5ff80, orange);
+  margin:0;
+  padding:0;
+  }
+.Title{
+  float:left;
+  padding-left: 1vw;
+  background-color:#eeffcc;
+  width:100vw;
+  overflow:hidden;
+}
+h1{
+  font-family: Helvetica, serif;
+  color: #4da6ff;
+}
+.topnav {
+  float:left;
+  background-color: #333;
+  width:100vw;
+  overflow:hidden;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.active {
+  background-color: #ddd;
+  color: white;
+}
+
+.hello{
+  height:45vh;
+  width:82vw;
+  float:left;
+  padding-left:1vw;
+  padding-bottom:1vw;
+  padding-top:1vw;
+  display:inline-block;
+  position:relative;
+}
+.sidebar{
+  z-index:1;
+position:relative;
+  background-color:black;
+  float:right;
+  width:15vw;
+  height:100vh;
+
+}
+div.gallery {
+  position:relative;
+  display:inline-block;
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.animate{
+  float:left;
+  left:30%;
+  position:absolute;
+  width:60vw;
+  height:10vh;
+  background-color:#eeffcc;
+  animation-name:anim1;
+  animation-duration:10s;
+  animation-iteration-count: 1;
+}
+
+@keyframes anim1{
+  0%{left:0;}
+100%{left:100%;}
+}
+
+.kamuol{
+  float:left;
+
+  z-index: 1;
+  display:inline-block;
+  width:10em;
+  height:10em;
+  border-radius: 50%;
+  background:linear-gradient(white,red);
+  animation-name:bounce;
+  animation-duration:3s;
+  animation-iteration-count: infinite;
+  animation-timing-function:ease-in-out;
+}
+@keyframes bounce{
+  0% {
+      transform: translate(0px) rotate(0deg);
+
+
+    }
+    25% {
+
+      transform: translate(100px,-100px) rotate(360deg);
+
+    }
+    50% {
+
+      transform: translate(200px,0px) rotate(720deg);
+
+    }
