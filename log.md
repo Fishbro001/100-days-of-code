@@ -55,3 +55,12 @@ But I will update for two days whenever I am able.
 
 **Links to work material**
 1. Can find the prototype website on works\day7
+
+### Day 8: April 9nd, Tuesday
+
+**Today's Progress**: Almost finished a course on Basics of Javascript
+
+**Thoughts**: 80% done. Pretty fun, but I knew most of that stuff so that's why it went smoothly.
+
+**Links to learning material**
+1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
