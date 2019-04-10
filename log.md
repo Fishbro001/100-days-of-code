@@ -64,3 +64,12 @@ But I will update for two days whenever I am able.
 
 **Links to learning material**
 1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Day 9: April 10nd, Wednesday
+
+**Today's Progress**: Learned a bit about Node.js, tried running a server on my computer, looks like it works, but couldn't make it visible 
+outside my pc.
+
+**Thoughts**: I am glad I started this challenge, I think if I didn't, I would have quit long time ago.
+
+**Links to learning material**
