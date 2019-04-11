@@ -73,3 +73,13 @@ outside my pc.
 **Thoughts**: I am glad I started this challenge, I think if I didn't, I would have quit long time ago.
 
 **Links to learning material**
+
+### Day 10: April 11nd, Thursday
+
+**Today's Progress**: Got stuck on one Javascript challenge on freeCodeCamp problem all day. Though nothing was wrong with my code. Quit. 
+Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stupid mistake. Can go to bed happy.
+
+**Thoughts**: I am getting demotivated, I need to put more effort in tomorrow.
+
+**Links to learning material**
+1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
