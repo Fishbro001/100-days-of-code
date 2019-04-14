@@ -83,3 +83,21 @@ Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stup
 
 **Links to learning material**
 1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Day 11: April 12nd, Friday
+
+**Today's Progress**: Finished Basic Javascript course on Freecodecamp.com
+
+**Thoughts**: Still demotivated, have to get my head in gear.
+
+**Links to learning material**
+1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Day 12-13: April 13-14nd, 
+
+**Today's Progress**: Finished two small courses on Freecodecamp (Applied accessibility, responsive web design principles)
+
+**Thoughts**: I was exhausted on the weekend, cause I was working outside a lot, but managed to make myself sit down so I am happy.
+
+**Links to learning material**
+1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
