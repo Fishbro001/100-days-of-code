@@ -11,7 +11,7 @@ pretty boring, cause I tried building a website on my own and it was filled with
 1. [Javescript](https://www.codecademy.com/courses/introduction-to-javascript)
 2. [Basic html](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 
-### Day 2: April 3nd, Wednesday
+### Day 2: April 3rd, Wednesday
 
 **Today's Progress**: I've finished a course on basic CSS on freecodecamp.
 
@@ -21,7 +21,7 @@ ids and classes and attributes, how to use each of them to style. And learned ho
 **Links to learning material**
 1. [CSS Basic](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
-### Day 3: April 4nd, Thursday
+### Day 3: April 4th Thursday
 
 **Today's Progress**: I've almost finished a course on "Applied Visual Design" (12 challenges short) about CSS on freecodecamp.
 
@@ -31,7 +31,7 @@ ids and classes and attributes, how to use each of them to style. And learned ho
 1. [CSS Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
 
-### Day 4: April 5nd, Friday
+### Day 4: April 5th, Friday
 
 **Today's Progress**: I've finished a course on "Applied Visual Design" about CSS on freecodecamp.
 
@@ -41,7 +41,7 @@ But I will update for two days whenever I am able.
 **Links to learning material**
 1. [CSS Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
-### Day 5-6: April 5nd-6th, Saturday-Sunday
+### Day 5-6: April 5th-6th, Saturday-Sunday
 
 **Progress**: Worked on a prototype website, one day, and the other day tried to get ::before or ::after working on css and couldn't.
 
@@ -56,7 +56,7 @@ But I will update for two days whenever I am able.
 **Links to work material**
 1. Can find the prototype website on works\day7
 
-### Day 8: April 9nd, Tuesday
+### Day 8: April 9th, Tuesday
 
 **Today's Progress**: Almost finished a course on Basics of Javascript
 
@@ -65,7 +65,7 @@ But I will update for two days whenever I am able.
 **Links to learning material**
 1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
 
-### Day 9: April 10nd, Wednesday
+### Day 9: April 10th, Wednesday
 
 **Today's Progress**: Learned a bit about Node.js, tried running a server on my computer, looks like it works, but couldn't make it visible 
 outside my pc.
@@ -74,7 +74,7 @@ outside my pc.
 
 **Links to learning material**
 
-### Day 10: April 11nd, Thursday
+### Day 10: April 11th, Thursday
 
 **Today's Progress**: Got stuck on one Javascript challenge on freeCodeCamp problem all day. Though nothing was wrong with my code. Quit. 
 Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stupid mistake. Can go to bed happy.
@@ -84,7 +84,7 @@ Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stup
 **Links to learning material**
 1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
 
-### Day 11: April 12nd, Friday
+### Day 11: April 12th, Friday
 
 **Today's Progress**: Finished Basic Javascript course on Freecodecamp.com
 
@@ -93,7 +93,7 @@ Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stup
 **Links to learning material**
 1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
 
-### Day 12-13: April 13-14nd, 
+### Day 12-13: April 13-14th, 
 
 **Today's Progress**: Finished two small courses on Freecodecamp (Applied accessibility, responsive web design principles)
 
@@ -101,3 +101,12 @@ Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stup
 
 **Links to learning material**
 1. [Basic Javascript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Day 14: April 15th, 
+
+**Today's Progress**: Finished a small course on CSS Flexbox on Freecodecamp
+
+**Thoughts**: Disappointed with myself, could have done more today.
+
+**Links to learning material**
+1. [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
