@@ -110,3 +110,11 @@ Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stup
 
 **Links to learning material**
 1. [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+
+### Day 15: April 16th, 
+
+**Today's Progress**: Finished a small course on CSS Grid on Freecodecamp
+
+
+**Links to learning material**
+1. [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-grid)
