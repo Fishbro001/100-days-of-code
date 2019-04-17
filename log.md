@@ -115,6 +115,15 @@ Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stup
 
 **Today's Progress**: Finished a small course on CSS Grid on Freecodecamp
 
+**Thoughts**: Disappointed with myself, could have done more today.
 
 **Links to learning material**
 1. [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+
+### Day 16: April 17th, 
+
+**Today's Progress**: Halfway through "Responsive Web Design Projects" on Freecodecamp
+
+**Thoughts**: Disappointed with myself, could have done more today, I quit a lot of timewasting things I did these past days
+gettting back into the swing of things.
+
