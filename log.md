@@ -127,3 +127,11 @@ Redone the same mistake. Checked the hints. Nothing wrong. Finally found my stup
 **Thoughts**: Disappointed with myself, could have done more today, I quit a lot of timewasting things I did these past days
 gettting back into the swing of things.
 
+### Day 17: April 18th, 
+
+**Today's Progress**: Completed the parent course (responsive web design) on Freecodecamp, met with a mentor
+
+**Thoughts**: Good I guess.
+
+**Link to the certificate**
+1. [Certification] https://www.freecodecamp.org/certification/fcc67891fcd-d6d5-42c8-aab1-986535bae99c/responsive-web-design
