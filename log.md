@@ -135,3 +135,12 @@ gettting back into the swing of things.
 
 **Link to the certificate**
 1. [Certification] https://www.freecodecamp.org/certification/fcc67891fcd-d6d5-42c8-aab1-986535bae99c/responsive-web-design
+
+### Day 18: April 19th, 
+
+**Today's Progress**: Started ES6 course on Freecodecamp
+
+**Thoughts**: Got stuck on understanding arrow functions, but now I do understand them, and I am glad that I pushed through.
+
+**Link to the learning material**
+1. [ES6] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6
