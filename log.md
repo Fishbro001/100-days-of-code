@@ -144,3 +144,13 @@ gettting back into the swing of things.
 
 **Link to the learning material**
 1. [ES6] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6
+
+### Day 19: April 20th, 
+
+**Today's Progress**: Finished ES6 course on Freecodecamp
+
+**Thoughts**: Hardest course so far, will definitely have to come back to it tomorrow to revise.
+
+**Link to the learning material**
+1. [ES6] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6
+
