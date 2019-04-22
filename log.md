@@ -154,3 +154,23 @@ gettting back into the swing of things.
 **Link to the learning material**
 1. [ES6] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6
 
+### Day 20: April 21th, 
+
+**Today's Progress**: Started regex course, revised ES6
+
+**Thoughts**: Happy Easter! Was busy entertaining guests all day, but found some time to sit and do some learning.
+
+**Link to the learning material**
+1. [Regex] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions
+
+### Day 21: April 22th, 
+
+**Today's Progress**: Finished Regex course
+
+**Thoughts**: I think I should start building something...
+
+**Link to the learning material**
+1. [Regex] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions
+
+
+
