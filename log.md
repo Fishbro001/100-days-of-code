@@ -172,5 +172,13 @@ gettting back into the swing of things.
 **Link to the learning material**
 1. [Regex] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions
 
+### Day 22: April 23th, 
 
+**Today's Progress**: Finished debugging course, almost done with complex data structure course on Freecodecamp
+
+**Thoughts**: I got stuck on one challenge for more than two hours, probably should have checked the hints.
+
+**Link to the learning material**
+1. [Debugging] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging
+2. [Data] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
 
