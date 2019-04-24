@@ -182,3 +182,15 @@ gettting back into the swing of things.
 1. [Debugging] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging
 2. [Data] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
 
+### Day 23: April 24th, 
+
+**Today's Progress**: Finished Basic data structures course, 8 challenges short of completing basic algorithm scripting
+ on Freecodecamp
+
+**Thoughts**: Actually enjoying myself.
+
+**Link to the learning material**
+1. [Basic Algorithm Scripting] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+2. [Data] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
+
+
