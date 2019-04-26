@@ -194,3 +194,14 @@ gettting back into the swing of things.
 2. [Data] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures
 
 
+### Day 24: April 26th, 
+
+**Today's Progress**: Finished Basic algorithm scripting on Freecodecamp. Missed a day, but not because I wanted to.
+I will do +2 more days at the end
+
+**Thoughts**: Actually enjoying myself.
+
+**Link to the learning material**
+1. [Basic Algorithm Scripting] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
