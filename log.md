@@ -204,4 +204,13 @@ I will do +2 more days at the end
 **Link to the learning material**
 1. [Basic Algorithm Scripting] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
+### Day 25: April 27th, 
+
+**Today's Progress**: Almost finished Object Oriented Programming on Freecodecamp. Will definitely have to come back tomorrow to
+review.
+**Thoughts**: A bit confusing.
+
+**Link to the learning material**
+1. [Object Oriented Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming
+
 
