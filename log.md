@@ -213,4 +213,12 @@ review.
 **Link to the learning material**
 1. [Object Oriented Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming
 
+### Day 26: April 28th, 
+
+**Today's Progress**: Learne a bit about functional programming on freeCodeCamp
+
+**Thoughts**: A bit confusing.
+
+**Link to the learning material**
+1. [Functional Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming
 
