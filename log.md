@@ -215,10 +215,20 @@ review.
 
 ### Day 26: April 28th, 
 
-**Today's Progress**: Learne a bit about functional programming on freeCodeCamp
+**Today's Progress**: Learned a bit about functional programming on freeCodeCamp
 
 **Thoughts**: A bit confusing.
 
 **Link to the learning material**
 1. [Functional Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming
+
+### Day 27: April 30th, 
+
+**Today's Progress**: Did an excersize on basic algorthm scripting onfreeCodeCamp
+
+**Thoughts**: spent 3 hours on one challenge before realising theres a much easier sort() method, which was already create for me.
+missed 1 day again.
+
+**Link to the learning material**
+1. [Basic algorithm Scripting] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
