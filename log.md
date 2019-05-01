@@ -232,3 +232,13 @@ missed 1 day again.
 **Link to the learning material**
 1. [Basic algorithm Scripting] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
+### Day 28: May 1st, 
+
+**Today's Progress**: Finished course of basic algorithmic scripting on freeCodeCamp
+
+**Thoughts**: Simple problems take me too long to solve, I hope I will get better with time
+
+**Link to the learning material**
+1. [Basic algorithm Scripting] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
+
+
