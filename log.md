@@ -241,4 +241,13 @@ missed 1 day again.
 **Link to the learning material**
 1. [Basic algorithm Scripting] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting
 
+### Day 29: May 2nd, 
+
+**Today's Progress**: Finished, revised Object Oriented programming course on FreeCodeCamp
+
+**Thoughts**: I might have to revise one more time, or work on something with it. I feel like I will forget it soon.
+
+**Link to the learning material**
+1. [Object Oriented Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/
+
 
