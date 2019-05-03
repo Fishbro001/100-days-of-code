@@ -250,4 +250,12 @@ missed 1 day again.
 **Link to the learning material**
 1. [Object Oriented Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming/
 
+### Day 23: May 3rd, 
+
+**Today's Progress**: Finished, Functional programming course on FreeCodeCamp
+
+**Thoughts**: Was confused a lot.
+
+**Link to the learning material**
+1. [Functional Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming
 
