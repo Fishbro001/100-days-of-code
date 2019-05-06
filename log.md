@@ -267,5 +267,14 @@ missed 1 day again.
  Days to add: +6
 
 **Link to the learning material**
-1. [Functional Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
+1. [Intermediate Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
+
+### Day 32: May 6th, 
+
+**Today's Progress**: Some progress on Intermediate programming course on FreeCodeCamp
+
+**Thoughts**: Been preparing mostly for drivers test tomorrow, so I didn't do so much.
+
+**Link to the learning material**
+1. [Intermediate Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
 
