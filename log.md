@@ -287,3 +287,12 @@ missed 1 day again.
 **Link to the learning material**
 1. [Intermediate Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
 
+### Day 34: May 8th, 
+
+**Today's Progress**: Halfway through on Intermediate programming course on FreeCodeCamp
+
+**Thoughts**: I take 2< hours on a problem, maybe I should just check the hints.
+
+**Link to the learning material**
+1. [Intermediate Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
+
