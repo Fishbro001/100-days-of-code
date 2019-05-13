@@ -314,3 +314,21 @@ missed 1 day again.
 **Link to the learning material**
 1. [Intermediate Programming] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/
 
+### Day 37: May 12th, 
+
+**Today's Progress**: Had no internet, worked on a project website, didn't do much in two days. Spent most of the time trying to remember
+the namings.
+
+**Thoughts**: Lets count it as only one day because of that.
+
+
+
+
+### Day 38: May 13th, 
+
+**Today's Progress**: Almost finished with JS course
+
+**Thoughts**: Difficult stuff, spent most of the time trying to work out a problem, that shouldn't be there in the first place..
+
+**Link to the learning material**
+1. [Javascript algorithms and data structures projects] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects
