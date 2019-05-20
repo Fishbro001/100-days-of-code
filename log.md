@@ -322,8 +322,6 @@ the namings.
 **Thoughts**: Lets count it as only one day because of that.
 
 
-
-
 ### Day 38: May 13th, 
 
 **Today's Progress**: Almost finished with JS course
@@ -332,3 +330,54 @@ the namings.
 
 **Link to the learning material**
 1. [Javascript algorithms and data structures projects] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects
+
+### Day 39: May 14th, 
+
+**Today's Progress**: Almost Almost finished with JS course
+
+**Thoughts**: Finished bunch of challenges I apparently missed, and one challenge took me too long.
+
+**Link to the learning material**
+1. [Javascript algorithms and data structures projects] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects
+
+### Day 39: May 14th, 
+
+**Today's Progress**: Almost Almost finished with JS course
+
+**Thoughts**: Finished bunch of challenges I apparently missed, and one challenge took me too long.
+
+**Link to the learning material**
+1. [Javascript algorithms and data structures projects] https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects
+
+### Day 40: May 15th, 
+
+**Today's Progress**: Got a diploma
+
+**Thoughts**: Took too long, but I am fine.
+
+**Link to the learning material**
+1. [Javascript algorithms and data structures diploma] https://www.freecodecamp.org/certification/fcc67891fcd-d6d5-42c8-aab1-986535bae99c/javascript-algorithms-and-data-structures
+
+### Day 41: May 16th, 
+
+**Today's Progress**: Decided to make a simple clock that counts time from when you load the page
+
+**Thoughts**: Spent entire day, because of one basic error I couldn't fix because I was looking at a wrong place the entire time
+
+**Link to Work**
+1. Can be found on day 41 folder.
+ 
+### Day 42: May 17th, 
+
+**Today's Progress**: Read up on bootstrap a bit
+
+**Thoughts**: Didn't had much time today.
+
+### Day 43: May 20th, 
+
+**Today's Progress**: Finished a Bootstrap course on Freecodecamp 
+
+**Thoughts**: Didn't had much time today. +8 days towards the end
+
+**Link to the learning material**
+1. [Bootstrap] https://learn.freecodecamp.org/front-end-libraries/bootstrap

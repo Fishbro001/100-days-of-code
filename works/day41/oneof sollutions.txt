@@ -1,0 +1,17 @@
+const time = [0, 0, 0];
+const div = document.getElementById('div');
+function clock() {
+    if(time[2] === 60) {
+        time[2] = 0;
+        time[1]++;
+        if(time[1] === 60) {
+            time[1] = 0;
+            time[0]++;
+            if(time[0] === 24) {
+                time[0] = 0;
+            }
+        }
+    }
+    div.innerText = time.map(el => el < 10 ? `0${el}` : `${el}`).join(':');
+}
+window.setInterval(clock, 1000);

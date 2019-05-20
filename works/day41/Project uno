@@ -1,0 +1,77 @@
+<link rel = "stylesheet"
+   type = "text/css"
+   href = "style.css" />
+
+<header id="header">
+  <nav id="nav-bar">
+    <a class="nav-link" href="#video">vienas</a>
+    <a class="nav-link" href="#header">du</a>
+    <a class="nav-link" href="#nav-bar">trys</a>
+  </nav>
+</header>
+<body>
+  
+<!--  <div id="container">
+  <video controls id="video">
+    <source src="https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc" type="video/mp4"></source>
+  </video>
+  <h3>Pradekite čia:</h3>
+
+  <form id="form" action="https://www.freecodecamp.com/email-submit">
+    <input id="email" type="email" placeholder="Email" name="email"></input>
+    <input id="submit" type="submit" value="Siusti"></input>
+  </form>
+    <p>Sed ut perspiciatis unde omnis
+    iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et  dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam</p>
+  </div>-->
+  <div id=clock>
+    <table>
+      <thead>
+      <tr class="info">
+        <th colspan="4">End of the World is closer by:</th>
+      </tr>
+      </thead>
+      <tbody>
+        <tr class="info">
+          <td id="days">0</td>
+          <td id="hours">0</td>
+          <td id="minutes">0</td>
+          <td id="seconds">0</td>
+        </tr>
+      </tbody>
+
+    </table>
+
+    </div>
+    <script type="text/javascript">
+        function tickTock(s,min,hour,day)
+        {
+          let sec=s+1;
+          let m=min;
+          let h=hour;
+          let d=day;
+          if(sec>60)
+          {
+            sec=0;
+            m++;
+          }
+          if(m>60)
+          {
+            m=0;
+            h++;
+          }
+          if(h>24)
+          {
+            h=0;
+            d++;
+          }
+          document.getElementById("days").textContent=d;
+          //document.getElementById("days").innerText=d;
+          document.getElementById("hours").textContent=h;
+          document.getElementById("minutes").textContent=m;
+          document.getElementById("seconds").textContent=s;
+          setTimeout(() => tickTock(sec,m,h,d), 1000);
+        };
+     tickTock(20,0,0,0);
+</script>
+</body>
