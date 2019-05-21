@@ -381,3 +381,13 @@ the namings.
 
 **Link to the learning material**
 1. [Bootstrap] https://learn.freecodecamp.org/front-end-libraries/bootstrap
+
+### Day 44: May 21th, 
+
+**Today's Progress**: Finished a JQuerry and Sass course on Freecodecamp, also registered on codewars.com did some excersizes.
+
+**Thoughts**: Very productive today
+
+**Link to the learning material**
+1. [JQuery] https://learn.freecodecamp.org/front-end-libraries/jquery
+2. [Sass]   https://learn.freecodecamp.org/front-end-libraries/sass
