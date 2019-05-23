@@ -391,3 +391,23 @@ the namings.
 **Link to the learning material**
 1. [JQuery] https://learn.freecodecamp.org/front-end-libraries/jquery
 2. [Sass]   https://learn.freecodecamp.org/front-end-libraries/sass
+
+### Day 45: May 22th, 
+
+**Today's Progress**: Started a React course on freeCodeCamp
+
+**Thoughts**: Its a bit confusing
+
+**Link to the learning material**
+1 [React] https://learn.freecodecamp.org/front-end-libraries/react
+
+### Day 46: May 23th, 
+
+**Today's Progress**: Progress on React course on freeCodeCamp
+
+**Thoughts**: Ok its confusing, why is this JS library? The language is so redundant, why if I want to get a parameter out of a method
+which i supply to it, i have to go param.target.value instead of just param? I don't understand why is it so overcomplicated?
+
+**Link to the learning material**
+1 [React] https://learn.freecodecamp.org/front-end-libraries/react
+
