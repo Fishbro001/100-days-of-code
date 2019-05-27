@@ -411,3 +411,21 @@ which i supply to it, i have to go param.target.value instead of just param? I d
 **Link to the learning material**
 1 [React] https://learn.freecodecamp.org/front-end-libraries/react
 
+### Day 47: May 26th, 
+
+**Today's Progress**:  Finished React course on freeCodeCamp
+
+**Thoughts**: I passed my driver's license, so I am happy.
+
+**Link to the learning material**
+1 [React] https://learn.freecodecamp.org/front-end-libraries/react
+
+### Day 48: May 27th, 
+
+**Today's Progress**:  Started Redux course on freeCodeCamp
+
+**Thoughts**: Frustrated, very confusing, how is this legal. Less confusing than React though.
+
+**Link to the learning material**
+1 [Redux] https://learn.freecodecamp.org/front-end-libraries/redux
+
